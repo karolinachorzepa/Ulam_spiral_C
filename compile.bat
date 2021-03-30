@@ -1,0 +1,1 @@
+C:\windows\microsoft.net\framework\v4.0.30319\csc.exe /out:app.exe /recurse:*.cs
